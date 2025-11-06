@@ -57,7 +57,7 @@ Task-Tracker-WebApp/
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,vite" />
 </p>
 
 **Backend**
@@ -65,6 +65,11 @@ Task-Tracker-WebApp/
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
   <br>
 🗂️ File System (fs)
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
 </p>
 
 ---
