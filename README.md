@@ -56,16 +56,16 @@ Task-Tracker-WebApp/
 ## ⚙️ Tech Stack
 
 **Frontend**
-- React (Vite)
-- Tailwind CSS
-- JavaScript (ES6+)
-- HTML5
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,git,github,vite" />
+</p>
 
 **Backend**
-- Node.js
-- Express.js
-- dotenv (for environment configuration)
-- File System (fs) module for data storage
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <br>
+🗂️ File System (fs)
+</p>
 
 ---
 
