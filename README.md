@@ -69,3 +69,30 @@ Task-Tracker-WebApp/
 
 ---
 
+## 🧱 API Endpoints (Example)
+
+| Method | Endpoint       | Description             |
+| ------ | -------------- | ----------------------- |
+| GET    | /api/notes     | Get all notes           |
+| POST   | /api/notes     | Add a new note          |
+| PUT    | /api/notes/:id | Update an existing note |
+| DELETE | /api/notes/:id | Delete a note           |
+
+
+
+## 🧑‍💻 Development Notes
+- Frontend and backend run on separate servers for easier development.
+- Ensure both servers are running concurrently.
+- Use CORS middleware in the backend for frontend communication.
+
+## 📸 Folder Preview
+
+The project structure ensures clean separation of frontend and backend logic, making the app scalable and maintainable.
+
+## 📜 License
+
+This project is licensed under the `MIT License`.
+
+## 💡 Author
+
+Developed by `Rakesh Kr. Dey`.
