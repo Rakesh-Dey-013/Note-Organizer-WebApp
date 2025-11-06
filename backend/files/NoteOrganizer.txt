@@ -1,0 +1,33 @@
+Today, i complete a project called ' Note Organizer WebApp '.
+This project is build using React, Express, Node, JavaScript, File System.
+
+Here’s the folder structure :
+```
+Note-Organizer-WebApp
+│
+├── backend
+│   ├── files
+│   ├── node_modules
+│   ├── .env
+│   ├── package-lock.json
+│   ├── package.json
+│   └── server.js
+│
+└── frontend
+    ├── node_modules
+    ├── public
+    ├── src
+    │   ├── assets
+    │   ├── components
+    │   ├── App.jsx
+    │   ├── index.css
+    │   └── main.jsx
+    ├── .env
+    ├── .gitignore
+    ├── eslint.config.js
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    └── vite.config.js
+```
